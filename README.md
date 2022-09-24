@@ -22,7 +22,7 @@ I’m looking for help with jobs, learning is fun while you earn.
  
  📫 How to reach me:
  twitter:https://twitter.com/Akinwaledamila7
- whatsApp:+2348135114452
+ damilareakinwale0@gmail.com
 
 <!--
 **damilare-d/damilare-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
