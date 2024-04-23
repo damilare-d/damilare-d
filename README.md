@@ -1,5 +1,7 @@
-<h1 align="center">Hi there! 👋 I'm Akinwale Damilare</h1>
-<h3 align="center">Mobile App Developer</h3>
+<h1 align="start">Hi there! 👋 I'm Akinwale Damilare</h1>
+<h3 align="start">Mobile App Developer</h3>
+
+<img src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Akinwale Damilare" style="display: block; margin: auto;">
 
 ## About Me
 I'm a highly skilled mobile engineer with over 3 years of experience specializing in Flutter development. Passionate about leveraging technology to solve real-world challenges, I thrive on building seamless user experiences that leave a lasting impact.
