@@ -29,14 +29,18 @@ As a mobile app developer, my technical prowess includes:
 - Agile methodology for efficient project management
 
 ## Support
+## Support
 <p>
   <a href="https://www.buymeacoffee.com/damilareake"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="damilareake" /></a>
 </p>
 
+## GitHub Stats
+<!-- Top Languages Card -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damilare-d&show_icons=true&locale=en&layout=compact" alt="damilare-d" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damilare-d&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
+<!-- Profile Stats Card -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=damilare-d&show_icons=true&locale=en" alt="damilare-d" />
+  <img src="https://github-readme-stats.vercel.app/api?username=damilare-d&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
