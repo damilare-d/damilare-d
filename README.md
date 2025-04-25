@@ -1,46 +1,49 @@
-<h1 align="start">Hi there! 👋 I'm Akinwale Damilare</h1>
-<h3 align="start">Mobile App Developer</h3>
+<h1 align="start">Hey there 👋 I'm Akinwale Damilare</h1>
+<h3 align="start">Mobile App Developer | Flutter Engineer | Problem Solver</h3>
 
-<img src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Akinwale Damilare" style="display: block; margin: auto;">
-
-## About Me
-I'm a highly skilled mobile engineer with over 3 years of experience specializing in Flutter development. Passionate about leveraging technology to solve real-world challenges, I thrive on building seamless user experiences that leave a lasting impact.
-
-<p> 
-  <a href="https://twitter.com/akinwaledamila7" target="blank"><img src="https://img.shields.io/twitter/follow/akinwaledamila7?logo=twitter&style=for-the-badge" alt="akinwaledamila7" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding gif"/>
 </p>
 
-## Connect with me
-<p>
-  <a href="https://twitter.com/akinwaledamila7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akinwaledamila7" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@damilared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@damilared" height="30" width="40" /></a>
-    <a href="https://medium.com/@damilareakinwale0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@damilared" height="30" width="40" /></a>
+---
+
+## 🚀 About Me
+Flutter engineer with 3+ years of experience crafting **scalable, user-friendly mobile applications**. I'm passionate about creating **seamless user experiences** and solving complex problems with clean, efficient code. I’m dedicated to continuous learning and optimizing development workflows to ship high-quality products.
+
+---
+
+## 🧠 What I'm Currently Learning
+I’m constantly learning! Currently diving deeper into:
+- **Flutter** and **Dart** (to build even more powerful apps)
+- **Golang** for building scalable backend solutions
+- Exploring **React Native** to expand my mobile app development knowledge.
+
+I'm always excited to experiment with new technologies and frameworks that help me stay at the forefront of mobile development.
+
+## 💻 My Technical Expertise
+As a mobile app developer, my technical expertise includes:
+- **Flutter & Dart** (for building beautiful cross-platform apps)
+- **Custom UI/UX design** (making sure the apps look great and are easy to use)
+- **Integrating RESTful APIs** (connecting apps to the outside world)
+- **Firebase** for scalable app development (authentication, database, storage)
+- **Agile Methodologies** (ensuring smooth workflows and team collaboration)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sable-one-33.vercel.app/api?username=damilare-d&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats-sable-one-33.vercel.app/api/top-langs/?username=damilare-d&layout=compact&theme=radical" height="150"/>
 </p>
 
-## What I'm Currently Learning
-I'm constantly learning! Right now, I'm diving deeper into Flutter and its ecosystem. Additionally, I'm mastering backend technologies to enhance my development skills further. I'm also excited about exploring new technologies in the near future. 
+---
 
-## My Technical Expertise
-As a mobile app developer, my technical prowess includes:
-- Flutter and Dart programming languages
-- Custom UI/UX design
-- Integrating RESTful APIs
-- Firebase integration for scalable app development
-- Agile methodology for efficient project management
+## 🔗 Connect with Me
 
-## Support
-## Support
 <p>
-  <a href="https://www.buymeacoffee.com/damilareake"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="damilareake" /></a>
-</p>
-
-## GitHub Stats
-<!-- Top Languages Card -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damilare-d&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<!-- Profile Stats Card -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=damilare-d&show_icons=true&locale=en" alt="GitHub Stats" />
+  <a href="https://twitter.com/akinwaledamila7"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://hashnode.com/@damilared"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://medium.com/@damilareakinwale0"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://github.com/damilare-d"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
